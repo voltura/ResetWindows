@@ -80,7 +80,7 @@
             ShowInTaskbar = false;
             SizeGripStyle = SizeGripStyle.Hide;
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "ResetForm";
+            Text = "Reset windows";
             TopMost = true;
             ResumeLayout(false);
             PerformLayout();
